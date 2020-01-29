@@ -1,0 +1,14 @@
+.form {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  margin: 5% auto;
+}
+.card {
+  text-align: center;
+  display: flex;
+}
+.button {
+  width: 20%;
+  margin: 0.5% auto;
+}
